@@ -1,2 +1,2 @@
-# My web server framework
-A nodejs web server framework which is very helpful for newbie
+# My own web server framework
+An attemp to invent a new nodejs web framework which is very helpful for newbie
